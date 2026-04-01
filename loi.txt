@@ -1,0 +1,5 @@
+DANH SÁCH CÁC DÒNG BỊ LỖI
+=========================
+SV02, Tran Thi B, muoi diem - Lỗi: Điểm không phải là số
+SV04, Pham Thi D, -2.5 - Lỗi: Điểm ngoài khoảng 0-10
+SV05, Hoang Van E, 11 - Lỗi: Điểm ngoài khoảng 0-10

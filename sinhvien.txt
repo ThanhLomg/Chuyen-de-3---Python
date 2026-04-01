@@ -1,0 +1,5 @@
+SV01, Đặng Vào Tài, 8.5
+SV02, Nguyễn Tất Tay, 4.5
+SV03, Le Van Anh, 7.0
+SV04, Phan Thành Long, 9.5
+SV05, Đỗ Thị Đạt, 3.0

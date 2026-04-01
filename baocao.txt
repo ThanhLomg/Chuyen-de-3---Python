@@ -1,0 +1,7 @@
+BÁO CÁO THỐNG KÊ KẾT QUẢ HỌC TẬP
+===================================
+Tổng số sinh viên: 5
+Điểm trung bình: 6.50
+Số sinh viên đạt: 3
+Số sinh viên không đạt: 2
+===================================
