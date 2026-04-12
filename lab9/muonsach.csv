@@ -1,0 +1,5 @@
+MaPM,MaSV,TenSach,NgayMuon,NgayTra,TrangThai
+PM01,SV01,Sach A,2024-01-01,2024-01-10,đã trả
+PM02,SV02,Sach B,2024-01-01,,chưa trả
+PM03,SV03,Sach C,2024-01-01,2024-03-10,đã trả
+PM04,SV04,Sach D,2024-02-01,2024-02-20,chưa trả
